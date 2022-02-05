@@ -14,7 +14,7 @@ code {
 
 .formaprijava {
   width: 500px;
-  margin-top: 150px;
+  margin-top: 50px;
   margin-left: 680px;
 }
 
@@ -34,4 +34,25 @@ label {
 #tekst_login {
   margin-top: 20px;
   margin-left: 680px;
+}
+
+#formacontact_div {
+  margin-top: 50px;
+  margin-left: 650px;
+  width: 550px;
+}
+
+#btn_send {
+  width: 120px;
+  margin-left: 200px;
+}
+
+#contact-us {
+  margin-top: 50px;
+  margin-left: 800px;
+}
+
+#login {
+  margin-left: 870px;
+  margin-top: 150px;
 }
