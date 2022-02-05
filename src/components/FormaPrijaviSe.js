@@ -20,7 +20,7 @@ function FormaPrijaviSe(props) {
     function prijaviSe(username, password) {
         for (let i = 0; i < users.length; i++) {
             if (users[i].username === username && users[i].password === password) {
-                setTekst(<h1>You succcessfully logged in!</h1>)
+                setTekst(<h1>You have succcessfully logged in!</h1>)
                 return;
             }
             else {
